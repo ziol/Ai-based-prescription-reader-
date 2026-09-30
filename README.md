@@ -1,1 +1,1 @@
-# Medx
+# Ai based Bangla prescription reader
